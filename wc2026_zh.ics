@@ -1,0 +1,1676 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuanX Labs//World Cup Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT1M
+X-PUBLISHED-TTL:PT1M
+X-WR-CALNAME:FIFA World Cup 2026
+X-WR-CALDESC:All matches of the FIFA World Cup 2026 - 美国\, 加拿大 an
+ d 墨西哥
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:wc2026-m001@quanxlabs
+SEQUENCE:3
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:🇲🇽 墨西哥 2-0 南非 🇿🇦 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Estadio Banorte\, Mexico City\, 墨
+ 西哥\nResult: 2-0\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer
+ /match/_/gameId/760415
+LOCATION:Estadio Banorte\, Mexico City\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760415
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m002@quanxlabs
+SEQUENCE:3
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+SUMMARY:🇰🇷 韩国 2-1 捷克 🇨🇿 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Estadio Akron\, Guadalajara\, 墨西
+ 哥\nResult: 2-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer/ma
+ tch/_/gameId/760414
+LOCATION:Estadio Akron\, Guadalajara\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760414
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m003@quanxlabs
+SEQUENCE:2
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:🇨🇦 加拿大 1-1 波黑 🇧🇦 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: BMO Field\, Toronto\, 加拿大\nRes
+ ult: 1-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/ga
+ meId/760416
+LOCATION:BMO Field\, Toronto\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760416
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m004@quanxlabs
+SEQUENCE:5
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260613T030800Z
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:🇺🇸 美国 4-1 巴拉圭 🇵🇾 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: SoFi Stadium\, Inglewood\, Californi
+ a\, 美国\nResult: 4-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/so
+ ccer/match/_/gameId/760417
+LOCATION:SoFi Stadium\, Inglewood\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760417
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m005@quanxlabs
+SEQUENCE:3
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260613T210934Z
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:🇶🇦 卡塔尔 1-1 瑞士 🇨🇭 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Levi's Stadium\, Santa Clara\, Calif
+ ornia\, 美国\nResult: 1-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.co
+ m/soccer/match/_/gameId/760420
+LOCATION:Levi's Stadium\, Santa Clara\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760420
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m006@quanxlabs
+SEQUENCE:4
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260614T002402Z
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:🇧🇷 巴西 1-1 摩洛哥 🇲🇦 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: MetLife Stadium\, East Rutherford\, 
+ New Jersey\, 美国\nResult: 1-1\nStatus: FT\nSource: ESPN\nhttps://www.es
+ pn.com/soccer/match/_/gameId/760419
+LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760419
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m007@quanxlabs
+SEQUENCE:3
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260614T030902Z
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:🇭🇹 海地 0-1 苏格兰 🏴 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Gillette Stadium\, Foxborough\, Mass
+ achusetts\, 美国\nResult: 0-1\nStatus: FT\nSource: ESPN\nhttps://www.esp
+ n.com/soccer/match/_/gameId/760418
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760418
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m008@quanxlabs
+SEQUENCE:4
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260614T060902Z
+DTSTART:20260614T040000Z
+DTEND:20260614T060000Z
+SUMMARY:🇦🇺 澳大利亚 2-0 土耳其 🇹🇷 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: BC Place\, Vancouver\, 加拿大\nRe
+ sult: 2-0\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/g
+ ameId/760421
+LOCATION:BC Place\, Vancouver\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760421
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m009@quanxlabs
+SEQUENCE:9
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260614T190802Z
+DTSTART:20260614T170000Z
+DTEND:20260614T190000Z
+SUMMARY:🇩🇪 德国 7-1 库拉索 🇨🇼 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: NRG Stadium\, Houston\, Texas\, 美
+ 国\nResult: 7-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer/ma
+ tch/_/gameId/760422
+LOCATION:NRG Stadium\, Houston\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760422
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m010@quanxlabs
+SEQUENCE:5
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260614T220802Z
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:🇳🇱 荷兰 2-2 日本 🇯🇵 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: AT&T Stadium\, Arlington\, Texas\, 
+ 美国\nResult: 2-2\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer
+ /match/_/gameId/760425
+LOCATION:AT&T Stadium\, Arlington\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760425
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m011@quanxlabs
+SEQUENCE:2
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260615T010802Z
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:🇨🇮 科特迪瓦 1-0 厄瓜多尔 🇪🇨 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Lincoln Financial Field\, Philadelph
+ ia\, Pennsylvania\, 美国\nResult: 1-0\nStatus: FT\nSource: ESPN\nhttps:/
+ /www.espn.com/soccer/match/_/gameId/760423
+LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760423
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m012@quanxlabs
+SEQUENCE:8
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260615T040802Z
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+SUMMARY:🇸🇪 瑞典 5-1 突尼斯 🇹🇳 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Estadio BBVA\, Guadalupe\, 墨西哥
+ \nResult: 5-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760424
+LOCATION:Estadio BBVA\, Guadalupe\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760424
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m013@quanxlabs
+SEQUENCE:2
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260615T180902Z
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:🇪🇸 西班牙 0-0 佛得角 🇨🇻 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Mercedes-Benz Stadium\, Atlanta\, Ge
+ orgia\, 美国\nResult: 0-0\nStatus: FT\nSource: ESPN\nhttps://www.espn.co
+ m/soccer/match/_/gameId/760428
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760428
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m014@quanxlabs
+SEQUENCE:4
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260615T210828Z
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:🇧🇪 比利时 1-1 埃及 🇪🇬 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Lumen Field\, Seattle\, Washington\,
+  美国\nResult: 1-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/socce
+ r/match/_/gameId/760426
+LOCATION:Lumen Field\, Seattle\, Washington\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760426
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m015@quanxlabs
+SEQUENCE:6
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260616T002029Z
+DTSTART:20260615T220000Z
+DTEND:20260616T000000Z
+SUMMARY:🇸🇦 沙特阿拉伯 1-1 乌拉圭 🇺🇾 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Hard Rock Stadium\, Miami Gardens\, 
+ Florida\, 美国\nResult: 1-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.
+ com/soccer/match/_/gameId/760429
+LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760429
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m016@quanxlabs
+SEQUENCE:4
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260616T030629Z
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+SUMMARY:🇮🇷 伊朗 2-2 新西兰 🇳🇿 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: SoFi Stadium\, Inglewood\, Californi
+ a\, 美国\nResult: 2-2\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/so
+ ccer/match/_/gameId/760427
+LOCATION:SoFi Stadium\, Inglewood\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760427
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m017@quanxlabs
+SEQUENCE:4
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260616T210629Z
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:🇫🇷 法国 3-1 塞内加尔 🇸🇳 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: MetLife Stadium\, East Rutherford\, 
+ New Jersey\, 美国\nResult: 3-1\nStatus: FT\nSource: ESPN\nhttps://www.es
+ pn.com/soccer/match/_/gameId/760432
+LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760432
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m018@quanxlabs
+SEQUENCE:5
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260617T000629Z
+DTSTART:20260616T220000Z
+DTEND:20260617T000000Z
+SUMMARY:🇮🇶 伊拉克 1-4 挪威 🇳🇴 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Gillette Stadium\, Foxborough\, Mass
+ achusetts\, 美国\nResult: 1-4\nStatus: FT\nSource: ESPN\nhttps://www.esp
+ n.com/soccer/match/_/gameId/760430
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760430
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m019@quanxlabs
+SEQUENCE:5
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260617T030528Z
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+SUMMARY:🇦🇷 阿根廷 3-0 阿尔及利亚 🇩🇿 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: GEHA Field at Arrowhead Stadium\, Ka
+ nsas City\, Missouri\, 美国\nResult: 3-0\nStatus: FT\nSource: ESPN\nhttp
+ s://www.espn.com/soccer/match/_/gameId/760433
+LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760433
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m020@quanxlabs
+SEQUENCE:5
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260617T062128Z
+DTSTART:20260617T040000Z
+DTEND:20260617T060000Z
+SUMMARY:🇦🇹 奥地利 3-1 约旦 🇯🇴 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Levi's Stadium\, Santa Clara\, Calif
+ ornia\, 美国\nResult: 3-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.co
+ m/soccer/match/_/gameId/760431
+LOCATION:Levi's Stadium\, Santa Clara\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760431
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m021@quanxlabs
+SEQUENCE:5
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260617T190628Z
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:🇵🇹 葡萄牙 1-1 刚果民主共和国 🇨🇩 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: NRG Stadium\, Houston\, Texas\, 美
+ 国\nResult: 1-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer/ma
+ tch/_/gameId/760435
+LOCATION:NRG Stadium\, Houston\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760435
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m022@quanxlabs
+SEQUENCE:6
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260617T220628Z
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:🏴 英格兰 4-2 克罗地亚 🇭🇷 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: AT&T Stadium\, Arlington\, Texas\, 
+ 美国\nResult: 4-2\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer
+ /match/_/gameId/760437
+LOCATION:AT&T Stadium\, Arlington\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760437
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m023@quanxlabs
+SEQUENCE:2
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260618T010528Z
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:🇬🇭 加纳 1-0 巴拿马 🇵🇦 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: BMO Field\, Toronto\, 加拿大\nRes
+ ult: 1-0\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/ga
+ meId/760434
+LOCATION:BMO Field\, Toronto\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760434
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m024@quanxlabs
+SEQUENCE:4
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260618T040628Z
+DTSTART:20260618T020000Z
+DTEND:20260618T040000Z
+SUMMARY:🇺🇿 乌兹别克斯坦 1-3 哥伦比亚 🇨🇴 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Estadio Banorte\, Mexico City\, 墨
+ 西哥\nResult: 1-3\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer
+ /match/_/gameId/760436
+LOCATION:Estadio Banorte\, Mexico City\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760436
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m025@quanxlabs
+SEQUENCE:3
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260618T180331Z
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:🇨🇿 捷克 1-1 南非 🇿🇦 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Mercedes-Benz Stadium\, Atlanta\, Ge
+ orgia\, 美国\nResult: 1-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.co
+ m/soccer/match/_/gameId/760438
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760438
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m026@quanxlabs
+SEQUENCE:3
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260618T210528Z
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:🇨🇭 瑞士 4-1 波黑 🇧🇦 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: SoFi Stadium\, Inglewood\, Californi
+ a\, 美国\nResult: 4-1\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/so
+ ccer/match/_/gameId/760439
+LOCATION:SoFi Stadium\, Inglewood\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760439
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m027@quanxlabs
+SEQUENCE:8
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260619T000729Z
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:🇨🇦 加拿大 6-0 卡塔尔 🇶🇦 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: BC Place\, Vancouver\, 加拿大\nRe
+ sult: 6-0\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/g
+ ameId/760440
+LOCATION:BC Place\, Vancouver\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760440
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m028@quanxlabs
+SEQUENCE:3
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260619T030529Z
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:🇲🇽 墨西哥 1-0 韩国 🇰🇷 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Estadio Akron\, Guadalajara\, 墨西
+ 哥\nResult: 1-0\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/soccer/ma
+ tch/_/gameId/760441
+LOCATION:Estadio Akron\, Guadalajara\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760441
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m029@quanxlabs
+SEQUENCE:3
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260619T212005Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:🇺🇸 美国 2-0 澳大利亚 🇦🇺 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Lumen Field\, Seattle\, Washington\,
+  美国\nResult: 2-0\nStatus: FT\nSource: ESPN\nhttps://www.espn.com/socce
+ r/match/_/gameId/760442
+LOCATION:Lumen Field\, Seattle\, Washington\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760442
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m030@quanxlabs
+SEQUENCE:3
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260620T000704Z
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:🏴 苏格兰 0-1 摩洛哥 🇲🇦 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Gillette Stadium\, Foxborough\, Mass
+ achusetts\, 美国\nResult: 0-1\nStatus: FT\nSource: ESPN\nhttps://www.esp
+ n.com/soccer/match/_/gameId/760445
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760445
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m031@quanxlabs
+SEQUENCE:4
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260620T024404Z
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
+SUMMARY:🇧🇷 巴西 3-0 海地 🇭🇹 (FT)
+DESCRIPTION:Stage: Group Stage\nVenue: Lincoln Financial Field\, Philadelph
+ ia\, Pennsylvania\, 美国\nResult: 3-0\nStatus: FT\nSource: ESPN\nhttps:/
+ /www.espn.com/soccer/match/_/gameId/760444
+LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760444
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m032@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260620T031604Z
+DTSTART:20260620T030000Z
+DTEND:20260620T050000Z
+SUMMARY:🇹🇷 土耳其 0-1 巴拉圭 🇵🇾 (LIVE)
+DESCRIPTION:Stage: Group Stage\nVenue: Levi's Stadium\, Santa Clara\, Calif
+ ornia\, 美国\nResult: 0-1\nStatus: LIVE\nSource: ESPN\nhttps://www.espn.
+ com/soccer/match/_/gameId/760443
+LOCATION:Levi's Stadium\, Santa Clara\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760443
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m033@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:🇳🇱 荷兰 vs 瑞典 🇸🇪
+DESCRIPTION:Stage: Group Stage\nVenue: NRG Stadium\, Houston\, Texas\, 美
+ 国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/
+ gameId/760447
+LOCATION:NRG Stadium\, Houston\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760447
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m034@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:🇩🇪 德国 vs 科特迪瓦 🇨🇮
+DESCRIPTION:Stage: Group Stage\nVenue: BMO Field\, Toronto\, 加拿大\nSta
+ tus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gameId/7
+ 60448
+LOCATION:BMO Field\, Toronto\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760448
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m035@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:🇪🇨 厄瓜多尔 vs 库拉索 🇨🇼
+DESCRIPTION:Stage: Group Stage\nVenue: GEHA Field at Arrowhead Stadium\, Ka
+ nsas City\, Missouri\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://ww
+ w.espn.com/soccer/match/_/gameId/760446
+LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760446
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m036@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260621T040000Z
+DTEND:20260621T060000Z
+SUMMARY:🇹🇳 突尼斯 vs 日本 🇯🇵
+DESCRIPTION:Stage: Group Stage\nVenue: Estadio BBVA\, Guadalupe\, 墨西哥
+ \nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gam
+ eId/760449
+LOCATION:Estadio BBVA\, Guadalupe\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760449
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m037@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:🇪🇸 西班牙 vs 沙特阿拉伯 🇸🇦
+DESCRIPTION:Stage: Group Stage\nVenue: Mercedes-Benz Stadium\, Atlanta\, Ge
+ orgia\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/socc
+ er/match/_/gameId/760453
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760453
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m038@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+SUMMARY:🇧🇪 比利时 vs 伊朗 🇮🇷
+DESCRIPTION:Stage: Group Stage\nVenue: SoFi Stadium\, Inglewood\, Californi
+ a\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/m
+ atch/_/gameId/760451
+LOCATION:SoFi Stadium\, Inglewood\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760451
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m039@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260621T220000Z
+DTEND:20260622T000000Z
+SUMMARY:🇺🇾 乌拉圭 vs 佛得角 🇨🇻
+DESCRIPTION:Stage: Group Stage\nVenue: Hard Rock Stadium\, Miami Gardens\, 
+ Florida\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/so
+ ccer/match/_/gameId/760450
+LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760450
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m040@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+SUMMARY:🇳🇿 新西兰 vs 埃及 🇪🇬
+DESCRIPTION:Stage: Group Stage\nVenue: BC Place\, Vancouver\, 加拿大\nSt
+ atus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gameId/
+ 760452
+LOCATION:BC Place\, Vancouver\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760452
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m041@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260622T170000Z
+DTEND:20260622T190000Z
+SUMMARY:🇦🇷 阿根廷 vs 奥地利 🇦🇹
+DESCRIPTION:Stage: Group Stage\nVenue: AT&T Stadium\, Arlington\, Texas\, 
+ 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760456
+LOCATION:AT&T Stadium\, Arlington\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760456
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m042@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:🇫🇷 法国 vs 伊拉克 🇮🇶
+DESCRIPTION:Stage: Group Stage\nVenue: Lincoln Financial Field\, Philadelph
+ ia\, Pennsylvania\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.e
+ spn.com/soccer/match/_/gameId/760457
+LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760457
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m043@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:🇳🇴 挪威 vs 塞内加尔 🇸🇳
+DESCRIPTION:Stage: Group Stage\nVenue: MetLife Stadium\, East Rutherford\, 
+ New Jersey\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com
+ /soccer/match/_/gameId/760454
+LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760454
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m044@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:🇯🇴 约旦 vs 阿尔及利亚 🇩🇿
+DESCRIPTION:Stage: Group Stage\nVenue: Levi's Stadium\, Santa Clara\, Calif
+ ornia\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/socc
+ er/match/_/gameId/760455
+LOCATION:Levi's Stadium\, Santa Clara\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760455
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m045@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:🇵🇹 葡萄牙 vs 乌兹别克斯坦 🇺🇿
+DESCRIPTION:Stage: Group Stage\nVenue: NRG Stadium\, Houston\, Texas\, 美
+ 国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/
+ gameId/760461
+LOCATION:NRG Stadium\, Houston\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760461
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m046@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:🏴 英格兰 vs 加纳 🇬🇭
+DESCRIPTION:Stage: Group Stage\nVenue: Gillette Stadium\, Foxborough\, Mass
+ achusetts\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/
+ soccer/match/_/gameId/760458
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760458
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m047@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260623T230000Z
+DTEND:20260624T010000Z
+SUMMARY:🇵🇦 巴拿马 vs 克罗地亚 🇭🇷
+DESCRIPTION:Stage: Group Stage\nVenue: BMO Field\, Toronto\, 加拿大\nSta
+ tus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gameId/7
+ 60460
+LOCATION:BMO Field\, Toronto\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760460
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m048@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+SUMMARY:🇨🇴 哥伦比亚 vs 刚果民主共和国 🇨🇩
+DESCRIPTION:Stage: Group Stage\nVenue: Estadio Akron\, Guadalajara\, 墨西
+ 哥\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/
+ gameId/760459
+LOCATION:Estadio Akron\, Guadalajara\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760459
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m049@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:🇧🇦 波黑 vs 卡塔尔 🇶🇦
+DESCRIPTION:Stage: Group Stage\nVenue: Lumen Field\, Seattle\, Washington\,
+  美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/matc
+ h/_/gameId/760462
+LOCATION:Lumen Field\, Seattle\, Washington\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760462
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m050@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:🇨🇭 瑞士 vs 加拿大 🇨🇦
+DESCRIPTION:Stage: Group Stage\nVenue: BC Place\, Vancouver\, 加拿大\nSt
+ atus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gameId/
+ 760463
+LOCATION:BC Place\, Vancouver\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760463
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m051@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:🇲🇦 摩洛哥 vs 海地 🇭🇹
+DESCRIPTION:Stage: Group Stage\nVenue: Mercedes-Benz Stadium\, Atlanta\, Ge
+ orgia\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/socc
+ er/match/_/gameId/760464
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760464
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m052@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:🏴 苏格兰 vs 巴西 🇧🇷
+DESCRIPTION:Stage: Group Stage\nVenue: Hard Rock Stadium\, Miami Gardens\, 
+ Florida\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/so
+ ccer/match/_/gameId/760465
+LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760465
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m053@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:🇨🇿 捷克 vs 墨西哥 🇲🇽
+DESCRIPTION:Stage: Group Stage\nVenue: Estadio Banorte\, Mexico City\, 墨
+ 西哥\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760467
+LOCATION:Estadio Banorte\, Mexico City\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760467
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m054@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:🇿🇦 南非 vs 韩国 🇰🇷
+DESCRIPTION:Stage: Group Stage\nVenue: Estadio BBVA\, Guadalupe\, 墨西哥
+ \nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gam
+ eId/760466
+LOCATION:Estadio BBVA\, Guadalupe\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760466
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m055@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:🇨🇼 库拉索 vs 科特迪瓦 🇨🇮
+DESCRIPTION:Stage: Group Stage\nVenue: Lincoln Financial Field\, Philadelph
+ ia\, Pennsylvania\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.e
+ spn.com/soccer/match/_/gameId/760473
+LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760473
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m056@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:🇪🇨 厄瓜多尔 vs 德国 🇩🇪
+DESCRIPTION:Stage: Group Stage\nVenue: MetLife Stadium\, East Rutherford\, 
+ New Jersey\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com
+ /soccer/match/_/gameId/760468
+LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760468
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m057@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:🇯🇵 日本 vs 瑞典 🇸🇪
+DESCRIPTION:Stage: Group Stage\nVenue: AT&T Stadium\, Arlington\, Texas\, 
+ 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760471
+LOCATION:AT&T Stadium\, Arlington\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760471
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m058@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:🇹🇳 突尼斯 vs 荷兰 🇳🇱
+DESCRIPTION:Stage: Group Stage\nVenue: GEHA Field at Arrowhead Stadium\, Ka
+ nsas City\, Missouri\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://ww
+ w.espn.com/soccer/match/_/gameId/760472
+LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760472
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m059@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:🇵🇾 巴拉圭 vs 澳大利亚 🇦🇺
+DESCRIPTION:Stage: Group Stage\nVenue: Levi's Stadium\, Santa Clara\, Calif
+ ornia\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/socc
+ er/match/_/gameId/760469
+LOCATION:Levi's Stadium\, Santa Clara\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760469
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m060@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:🇹🇷 土耳其 vs 美国 🇺🇸
+DESCRIPTION:Stage: Group Stage\nVenue: SoFi Stadium\, Inglewood\, Californi
+ a\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/m
+ atch/_/gameId/760470
+LOCATION:SoFi Stadium\, Inglewood\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760470
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m061@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:🇳🇴 挪威 vs 法国 🇫🇷
+DESCRIPTION:Stage: Group Stage\nVenue: Gillette Stadium\, Foxborough\, Mass
+ achusetts\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/
+ soccer/match/_/gameId/760475
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760475
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m062@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:🇸🇳 塞内加尔 vs 伊拉克 🇮🇶
+DESCRIPTION:Stage: Group Stage\nVenue: BMO Field\, Toronto\, 加拿大\nSta
+ tus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gameId/7
+ 60474
+LOCATION:BMO Field\, Toronto\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760474
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m063@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:🇨🇻 佛得角 vs 沙特阿拉伯 🇸🇦
+DESCRIPTION:Stage: Group Stage\nVenue: NRG Stadium\, Houston\, Texas\, 美
+ 国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/
+ gameId/760478
+LOCATION:NRG Stadium\, Houston\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760478
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m064@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:🇺🇾 乌拉圭 vs 西班牙 🇪🇸
+DESCRIPTION:Stage: Group Stage\nVenue: Estadio Akron\, Guadalajara\, 墨西
+ 哥\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/
+ gameId/760479
+LOCATION:Estadio Akron\, Guadalajara\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760479
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m065@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:🇪🇬 埃及 vs 伊朗 🇮🇷
+DESCRIPTION:Stage: Group Stage\nVenue: Lumen Field\, Seattle\, Washington\,
+  美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/matc
+ h/_/gameId/760476
+LOCATION:Lumen Field\, Seattle\, Washington\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760476
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m066@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:🇳🇿 新西兰 vs 比利时 🇧🇪
+DESCRIPTION:Stage: Group Stage\nVenue: BC Place\, Vancouver\, 加拿大\nSt
+ atus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gameId/
+ 760477
+LOCATION:BC Place\, Vancouver\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760477
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m067@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:🇭🇷 克罗地亚 vs 加纳 🇬🇭
+DESCRIPTION:Stage: Group Stage\nVenue: Lincoln Financial Field\, Philadelph
+ ia\, Pennsylvania\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.e
+ spn.com/soccer/match/_/gameId/760480
+LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760480
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m068@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:🇵🇦 巴拿马 vs 英格兰 🏴
+DESCRIPTION:Stage: Group Stage\nVenue: MetLife Stadium\, East Rutherford\, 
+ New Jersey\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com
+ /soccer/match/_/gameId/760485
+LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760485
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m069@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:🇨🇴 哥伦比亚 vs 葡萄牙 🇵🇹
+DESCRIPTION:Stage: Group Stage\nVenue: Hard Rock Stadium\, Miami Gardens\, 
+ Florida\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/so
+ ccer/match/_/gameId/760481
+LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760481
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m070@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:🇨🇩 刚果民主共和国 vs 乌兹别克斯坦 🇺🇿
+DESCRIPTION:Stage: Group Stage\nVenue: Mercedes-Benz Stadium\, Atlanta\, Ge
+ orgia\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/socc
+ er/match/_/gameId/760482
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760482
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m071@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:🇩🇿 阿尔及利亚 vs 奥地利 🇦🇹
+DESCRIPTION:Stage: Group Stage\nVenue: GEHA Field at Arrowhead Stadium\, Ka
+ nsas City\, Missouri\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://ww
+ w.espn.com/soccer/match/_/gameId/760484
+LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760484
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m072@quanxlabs
+SEQUENCE:0
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:🇯🇴 约旦 vs 阿根廷 🇦🇷
+DESCRIPTION:Stage: Group Stage\nVenue: AT&T Stadium\, Arlington\, Texas\, 
+ 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760483
+LOCATION:AT&T Stadium\, Arlington\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760483
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m073@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260628T190000Z
+DTEND:20260628T220000Z
+SUMMARY:2nd Group A vs 2nd Group B
+DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Inglewood\, Californi
+ a\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/m
+ atch/_/gameId/760486
+LOCATION:SoFi Stadium\, Inglewood\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760486
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m074@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260629T170000Z
+DTEND:20260629T200000Z
+SUMMARY:1st Group C vs 2nd Group F
+DESCRIPTION:Stage: Round of 32\nVenue: NRG Stadium\, Houston\, Texas\, 美
+ 国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/
+ gameId/760487
+LOCATION:NRG Stadium\, Houston\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760487
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m075@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260629T203000Z
+DTEND:20260629T233000Z
+SUMMARY:1st Group E vs Third Place Group A/B/C/D/F
+DESCRIPTION:Stage: Round of 32\nVenue: Gillette Stadium\, Foxborough\, Mass
+ achusetts\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/
+ soccer/match/_/gameId/760489
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760489
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m076@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260630T010000Z
+DTEND:20260630T040000Z
+SUMMARY:1st Group F vs 2nd Group C
+DESCRIPTION:Stage: Round of 32\nVenue: Estadio BBVA\, Guadalupe\, 墨西哥
+ \nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gam
+ eId/760488
+LOCATION:Estadio BBVA\, Guadalupe\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760488
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m077@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260630T170000Z
+DTEND:20260630T200000Z
+SUMMARY:2nd Group E vs 2nd Group I
+DESCRIPTION:Stage: Round of 32\nVenue: AT&T Stadium\, Arlington\, Texas\, 
+ 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760490
+LOCATION:AT&T Stadium\, Arlington\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760490
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m078@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260630T210000Z
+DTEND:20260701T000000Z
+SUMMARY:1st Group I vs Third Place Group C/D/F/G/H
+DESCRIPTION:Stage: Round of 32\nVenue: MetLife Stadium\, East Rutherford\, 
+ New Jersey\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com
+ /soccer/match/_/gameId/760492
+LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760492
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m079@quanxlabs
+SEQUENCE:2
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260619T153005Z
+DTSTART:20260701T010000Z
+DTEND:20260701T040000Z
+SUMMARY:🇲🇽 墨西哥 vs Third Place Group C/E/F/H/I
+DESCRIPTION:Stage: Round of 32\nVenue: Estadio Banorte\, Mexico City\, 墨
+ 西哥\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760491
+LOCATION:Estadio Banorte\, Mexico City\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760491
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m080@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260701T160000Z
+DTEND:20260701T190000Z
+SUMMARY:1st Group L vs Third Place Group E/H/I/J/K
+DESCRIPTION:Stage: Round of 32\nVenue: Mercedes-Benz Stadium\, Atlanta\, Ge
+ orgia\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/socc
+ er/match/_/gameId/760495
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760495
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m081@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260701T200000Z
+DTEND:20260701T230000Z
+SUMMARY:1st Group G vs Third Place Group A/E/H/I/J
+DESCRIPTION:Stage: Round of 32\nVenue: Lumen Field\, Seattle\, Washington\,
+  美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/matc
+ h/_/gameId/760493
+LOCATION:Lumen Field\, Seattle\, Washington\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760493
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m082@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260702T000000Z
+DTEND:20260702T030000Z
+SUMMARY:1st Group D vs Third Place Group B/E/F/I/J
+DESCRIPTION:Stage: Round of 32\nVenue: Levi's Stadium\, Santa Clara\, Calif
+ ornia\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/socc
+ er/match/_/gameId/760494
+LOCATION:Levi's Stadium\, Santa Clara\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760494
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m083@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260702T190000Z
+DTEND:20260702T220000Z
+SUMMARY:1st Group H vs 2nd Group J
+DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Inglewood\, Californi
+ a\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/m
+ atch/_/gameId/760497
+LOCATION:SoFi Stadium\, Inglewood\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760497
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m084@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260702T230000Z
+DTEND:20260703T020000Z
+SUMMARY:2nd Group K vs 2nd Group L
+DESCRIPTION:Stage: Round of 32\nVenue: BMO Field\, Toronto\, 加拿大\nSta
+ tus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gameId/7
+ 60496
+LOCATION:BMO Field\, Toronto\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760496
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m085@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260703T030000Z
+DTEND:20260703T060000Z
+SUMMARY:1st Group B vs Third Place Group E/F/G/I/J
+DESCRIPTION:Stage: Round of 32\nVenue: BC Place\, Vancouver\, 加拿大\nSt
+ atus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gameId/
+ 760498
+LOCATION:BC Place\, Vancouver\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760498
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m086@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260703T180000Z
+DTEND:20260703T210000Z
+SUMMARY:2nd Group D vs 2nd Group G
+DESCRIPTION:Stage: Round of 32\nVenue: AT&T Stadium\, Arlington\, Texas\, 
+ 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760499
+LOCATION:AT&T Stadium\, Arlington\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760499
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m087@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260703T220000Z
+DTEND:20260704T010000Z
+SUMMARY:1st Group J vs 2nd Group H
+DESCRIPTION:Stage: Round of 32\nVenue: Hard Rock Stadium\, Miami Gardens\, 
+ Florida\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/so
+ ccer/match/_/gameId/760500
+LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760500
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m088@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260704T013000Z
+DTEND:20260704T043000Z
+SUMMARY:1st Group K vs Third Place Group D/E/I/J/L
+DESCRIPTION:Stage: Round of 32\nVenue: GEHA Field at Arrowhead Stadium\, Ka
+ nsas City\, Missouri\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://ww
+ w.espn.com/soccer/match/_/gameId/760501
+LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760501
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m089@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260704T170000Z
+DTEND:20260704T200000Z
+SUMMARY:Winner Round of 32 1 vs Winner Round of 32 3
+DESCRIPTION:Stage: Round of 16\nVenue: NRG Stadium\, Houston\, Texas\, 美
+ 国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/
+ gameId/760502
+LOCATION:NRG Stadium\, Houston\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760502
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m090@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260704T210000Z
+DTEND:20260705T000000Z
+SUMMARY:Winner Round of 32 2 vs Winner Round of 32 5
+DESCRIPTION:Stage: Round of 16\nVenue: Lincoln Financial Field\, Philadelph
+ ia\, Pennsylvania\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.e
+ spn.com/soccer/match/_/gameId/760503
+LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760503
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m091@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260705T200000Z
+DTEND:20260705T230000Z
+SUMMARY:Winner Round of 32 4 vs Winner Round of 32 6
+DESCRIPTION:Stage: Round of 16\nVenue: MetLife Stadium\, East Rutherford\, 
+ New Jersey\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com
+ /soccer/match/_/gameId/760504
+LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760504
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m092@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260706T000000Z
+DTEND:20260706T030000Z
+SUMMARY:Winner Round of 32 7 vs Winner Round of 32 8
+DESCRIPTION:Stage: Round of 16\nVenue: Estadio Banorte\, Mexico City\, 墨
+ 西哥\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760505
+LOCATION:Estadio Banorte\, Mexico City\, 墨西哥
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760505
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m093@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260706T190000Z
+DTEND:20260706T220000Z
+SUMMARY:Winner Round of 32 11 vs Winner Round of 32 12
+DESCRIPTION:Stage: Round of 16\nVenue: AT&T Stadium\, Arlington\, Texas\, 
+ 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760506
+LOCATION:AT&T Stadium\, Arlington\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760506
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m094@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260707T000000Z
+DTEND:20260707T030000Z
+SUMMARY:Winner Round of 32 9 vs Winner Round of 32 10
+DESCRIPTION:Stage: Round of 16\nVenue: Lumen Field\, Seattle\, Washington\,
+  美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/matc
+ h/_/gameId/760507
+LOCATION:Lumen Field\, Seattle\, Washington\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760507
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m095@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260707T160000Z
+DTEND:20260707T190000Z
+SUMMARY:Winner Round of 32 14 vs Winner Round of 32 16
+DESCRIPTION:Stage: Round of 16\nVenue: Mercedes-Benz Stadium\, Atlanta\, Ge
+ orgia\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/socc
+ er/match/_/gameId/760509
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760509
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m096@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260707T200000Z
+DTEND:20260707T230000Z
+SUMMARY:Winner Round of 32 13 vs Winner Round of 32 15
+DESCRIPTION:Stage: Round of 16\nVenue: BC Place\, Vancouver\, 加拿大\nSt
+ atus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match/_/gameId/
+ 760508
+LOCATION:BC Place\, Vancouver\, 加拿大
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760508
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m097@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260709T200000Z
+DTEND:20260709T230000Z
+SUMMARY:Winner Round of 16 1 vs Winner Round of 16 2
+DESCRIPTION:Stage: Quarterfinals\nVenue: Gillette Stadium\, Foxborough\, Ma
+ ssachusetts\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.co
+ m/soccer/match/_/gameId/760510
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760510
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m098@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260710T190000Z
+DTEND:20260710T220000Z
+SUMMARY:Winner Round of 16 5 vs Winner Round of 16 6
+DESCRIPTION:Stage: Quarterfinals\nVenue: SoFi Stadium\, Inglewood\, Califor
+ nia\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer
+ /match/_/gameId/760511
+LOCATION:SoFi Stadium\, Inglewood\, California\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760511
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m099@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260711T210000Z
+DTEND:20260712T000000Z
+SUMMARY:Winner Round of 16 3 vs Winner Round of 16 4
+DESCRIPTION:Stage: Quarterfinals\nVenue: Hard Rock Stadium\, Miami Gardens\
+ , Florida\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/
+ soccer/match/_/gameId/760512
+LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760512
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m100@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260712T010000Z
+DTEND:20260712T040000Z
+SUMMARY:Winner Round of 16 7 vs Winner Round of 16 8
+DESCRIPTION:Stage: Quarterfinals\nVenue: GEHA Field at Arrowhead Stadium\, 
+ Kansas City\, Missouri\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://
+ www.espn.com/soccer/match/_/gameId/760513
+LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760513
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m101@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260714T190000Z
+DTEND:20260714T220000Z
+SUMMARY:Winner Quarterfinals 1 vs Winner Quarterfinals 2
+DESCRIPTION:Stage: Semifinals\nVenue: AT&T Stadium\, Arlington\, Texas\, 
+ 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/soccer/match
+ /_/gameId/760514
+LOCATION:AT&T Stadium\, Arlington\, Texas\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760514
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m102@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260715T190000Z
+DTEND:20260715T220000Z
+SUMMARY:Winner Quarterfinals 3 vs Winner Quarterfinals 4
+DESCRIPTION:Stage: Semifinals\nVenue: Mercedes-Benz Stadium\, Atlanta\, Geo
+ rgia\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/socce
+ r/match/_/gameId/760515
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760515
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m103@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260718T210000Z
+DTEND:20260719T000000Z
+SUMMARY:Loser Semifinals 1 vs Loser Semifinals 2
+DESCRIPTION:Stage: Third Place Match\nVenue: Hard Rock Stadium\, Miami Gard
+ ens\, Florida\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.
+ com/soccer/match/_/gameId/760516
+LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760516
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m104@quanxlabs
+SEQUENCE:1
+DTSTAMP:20260620T031604Z
+LAST-MODIFIED:20260612T210059Z
+DTSTART:20260719T190000Z
+DTEND:20260719T220000Z
+SUMMARY:Winner Semifinals 1 vs Winner Semifinals 2
+DESCRIPTION:Stage: Final\nVenue: MetLife Stadium\, East Rutherford\, New Je
+ rsey\, 美国\nStatus: Scheduled\nSource: ESPN\nhttps://www.espn.com/socce
+ r/match/_/gameId/760517
+LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, 美国
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://www.espn.com/soccer/match/_/gameId/760517
+END:VEVENT
+END:VCALENDAR
